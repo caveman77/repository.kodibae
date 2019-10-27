@@ -1,0 +1,4 @@
+Exodus Changelog:
+8.2.0
+- New Website
+- Removed TV ADDONS Resources

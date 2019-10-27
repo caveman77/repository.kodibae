@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.watchnixtoons2" name="WatchNixtoons2" version="0.3.6" provider-name="doko">
+    <requires>
+        <import addon="xbmc.python" version="2.20.0"/>
+        <import addon="script.module.requests"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="Default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <news>
+[COLOR orange][B]WatchNixtoons2[/B][/COLOR] - Cartoons &amp; Anime
+[B]0.3.6:[/B]
+- Updated the URL to the website, after a domain change.
+
+[B]0.3.5:[/B]
+- Fixed the Episode and Movie searches, the results are now playable.
+- Added the "Always Show Multi-chapter Dialog" setting, for use w/ shows that split episodes in parts.
+- Improved the Trakt listings, they now support movies, shows, seasons and episodes.
+
+[B]0.3.4:[/B]
+- Added a simple search history feature, see Search -> "Search History" menu.
+
+[B]0.3.3:[/B]
+- Fixed the Trakt "liked" list display.
+
+[B]0.3.2:[/B]
+- Fixed a fault in the stream getting logic.
+
+[B]0.3.1:[/B]
+- Fixed a new way of getting video streams.
+- Added "liked" lists to the Trakt search (besides your own lists).
+        </news>
+        <description lang="en">
+Watch cartoons and anime from [COLOR orange][B]WatchCartoonOnline.io[/B][/COLOR].
+
+Support the WatchCartoonOnline website with a PayPal donation to:
+[COLOR khaki][B]wcohelp@yandex.com[/B][/COLOR]
+
+Add-on by doko.
+        </description>
+        <platform lang="en">all</platform>
+        <disclaimer lang="en">The authors of this addon do not host any of the content found or have any affiliation with the content providers. This add-on only scrapes web pages.</disclaimer>
+    </extension>
+</addon>

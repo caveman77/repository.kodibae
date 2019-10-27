@@ -1,0 +1,75 @@
+<repositories>
+
+	<repository>
+      <name>123Venom</name>
+      <username>123Venom</username>
+      <description>Venom</description>
+	</repository>
+
+	<repository>
+      <name>bugatsinho</name>
+      <username>bugatsinho</username>
+      <description>ReleaseBB</description>
+	</repository>
+
+	<repository>
+      <name>darknessally</name>
+      <username>darknessally</username>
+      <description>cCloud TV</description>
+	</repository>
+
+	<repository>
+      <name>doko</name>
+      <username>doko-desuka</username>
+      <description>WatchNixtoons2, Toonmania2</description>
+	</repository>
+
+	<repository>
+      <name>DxCx</name>
+      <username>dxcx</username>
+      <description>WonderfulSubs</description>
+	</repository>
+
+	<repository>
+      <name>elgatito</name>
+      <username>elgatito</username>
+      <description>Elementum</description>
+	</repository>
+
+	<repository>
+      <name>frenchdj</name>
+      <username>frenchdj</username>
+      <description>FDJ</description>
+	</repository>
+
+	<repository>
+      <name>gaiaorigin</name>
+      <username>Gaia</username>
+      <description>Gaia</description>
+	</repository>
+
+	<repository>
+      <name>jewbmx</name>
+      <username>jewbmx</username>
+      <description>Scrubs v2</description>
+	</repository>
+
+	<repository>
+      <name>kodibae</name>
+      <username>kodibae</username>
+      <description>Exodus, Ultimate IPTV</description>
+	</repository>
+
+	<repository>
+      <name>nixgates</name>
+      <username>nixgates</username>
+      <description>Seren</description>
+	</repository>
+
+	<repository>
+      <name>TV ADDONS</name>
+      <username>tvaddonsco</username>
+      <description>Free Live TV, USTVnow Plus</description>
+	</repository>
+
+</repositories>
