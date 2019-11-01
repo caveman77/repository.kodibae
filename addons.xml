@@ -275,7 +275,7 @@ Kodi is a registered trademark of the XBMC Foundation. We are not connected to o
 	</extension>
 </addon>
 
-<addon id="script.module.exoscrapers" name="ExoScrapers Module" version="1.1.0" provider-name="Exodus">
+<addon id="script.module.exoscrapers" name="ExoScrapers Module" version="2.0.0" provider-name="Exodus">
     <requires>
         <import addon="xbmc.python" version="2.25.0" />
         <import addon="script.module.beautifulsoup4"/>
@@ -295,7 +295,7 @@ Kodi is a registered trademark of the XBMC Foundation. We are not connected to o
         <icon>icon.png</icon>
         <fanart></fanart>
     </assets>
-    <news>v1.1.0 - Scraper cleanup and EOL fixes</news>
+    <news>v2.0.0 - Scraper updates and language additions</news>
     </extension>
 </addon>
 
@@ -822,7 +822,7 @@ Added Trakt Manager
 	</extension>
 </addon>
 
-<addon id="plugin.video.exodus" version="8.2.0" name="Exodus" provider-name="Exodus">
+<addon id="plugin.video.exodus" version="8.2.1" name="Exodus" provider-name="Exodus">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.module.exodus" />
@@ -916,7 +916,7 @@ Release type detection improved.</news>
   </extension>
 </addon>
 
-<addon id="plugin.video.SportsDevil" name="SportsDevil" version="2019.09.25" provider-name="SportsDevil">
+<addon id="plugin.video.SportsDevil" name="SportsDevil" version="2019.11.01" provider-name="SportsDevil">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 		<import addon="script.module.requests" />
@@ -925,9 +925,6 @@ Release type detection improved.</news>
 		<import addon="script.module.resolveurl" version="5.0.00"/>
         <import addon="script.module.streamlink.base" />
         <import addon="repository.kodibae" />
-        <import addon="repository.thebackup" />
-        <import addon="repository.xbmchub" />
-        <import addon="plugin.program.indigo" />
 	</requires>
 	<extension point="xbmc.python.pluginsource" library="maintv.py">
 		<provides>video</provides>

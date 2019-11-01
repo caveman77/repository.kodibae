@@ -1,2 +1,2 @@
-2019.09.25
-- Major improvements
+2019.11.01
+- Remove useless dependencies

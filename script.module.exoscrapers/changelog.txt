@@ -1,5 +1,6 @@
 ExoScrapers Module Changelog:
-1.1.0
-- Added new scrapers (ty Nazegnl)
-- fixed bs4 issue in pubfilmonline
-- code cleanup
+2.0.0
+- Updated scrapers
+- Updated domains
+- Removed dead websites
+- Added additional languages
