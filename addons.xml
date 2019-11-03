@@ -275,7 +275,7 @@ Kodi is a registered trademark of the XBMC Foundation. We are not connected to o
 	</extension>
 </addon>
 
-<addon id="script.module.exoscrapers" name="ExoScrapers Module" version="2.0.0" provider-name="Exodus">
+<addon id="script.module.exoscrapers" name="ExoScrapers Module" version="2.0.1" provider-name="Exodus">
     <requires>
         <import addon="xbmc.python" version="2.25.0" />
         <import addon="script.module.beautifulsoup4"/>
@@ -295,7 +295,7 @@ Kodi is a registered trademark of the XBMC Foundation. We are not connected to o
         <icon>icon.png</icon>
         <fanart></fanart>
     </assets>
-    <news>v2.0.0 - Scraper updates and language additions</news>
+    <news>v2.0.1 - Scraper updates and language additions</news>
     </extension>
 </addon>
 
@@ -366,7 +366,7 @@ Kodi is a registered trademark of the XBMC Foundation. We are not connected to o
 	</extension>
 </addon>
 
-<addon id="plugin.video.sport365.live" name="Sport365" version="2.6.5" provider-name="Bugatsinho">
+<addon id="plugin.video.sport365.live" name="Sport365" version="2.6.6.2" provider-name="Bugatsinho">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="script.module.requests" version="2.19.1"/>
@@ -390,7 +390,7 @@ Kodi is a registered trademark of the XBMC Foundation. We are not connected to o
     <icon>icon.png</icon>
     <fanart>fanart.png</fanart>
   </assets>
-  <news>2.6.5 08-10-2019
+  <news>2.6.6.2 03-11-2019
 - Fix regex for the events and get key for decrypt website streams</news>
   </extension>
 </addon>
@@ -822,7 +822,7 @@ Added Trakt Manager
 	</extension>
 </addon>
 
-<addon id="plugin.video.exodus" version="8.2.1" name="Exodus" provider-name="Exodus">
+<addon id="plugin.video.exodus" version="8.2.2" name="Exodus" provider-name="Exodus">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.module.exodus" />
@@ -1051,7 +1051,7 @@ v5.2.14 (2017-01-23)
   </extension>
 </addon>
 
-<addon id="script.module.urlresolver" name="URLResolver" version="5.0.41" provider-name="tvaddons">
+<addon id="script.module.urlresolver" name="URLResolver" version="5.0.42" provider-name="tvaddons">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="plugin.video.youtube" optional="true" />
