@@ -1,6 +1,3 @@
 ExoScrapers Module Changelog:
-2.0.1
-- Updated scrapers
-- Updated domains
-- Removed dead websites
-- Added additional languages
+2.0.2
+- Disabled problematic scraper
